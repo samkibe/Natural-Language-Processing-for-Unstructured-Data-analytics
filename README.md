@@ -1,1 +1,1 @@
-# NLP-for-Unstgructured-Data-analytics
+application of NLP IN TEXT ANALYTICS
